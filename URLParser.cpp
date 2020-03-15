@@ -15,7 +15,7 @@ bool isValidPortNum(int);
 bool isValidHost(string);
 bool isValidFilePath(string);
 
-static double versionNum = 1.2;
+static double versionNum = 1.2; // Version Number
 
 int main()
 {
